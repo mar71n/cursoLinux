@@ -1,0 +1,10 @@
+Para usar el git en la linea de comandos (esto es así tanto para linux como para el gitbash de windows)
+
+Hay que configurar los proxy para http y https, el email y el nombre.
+
+git config --global https.proxy "https://usuario:clave@proxy.dgeyc:3128"
+git config --global http.proxy "http://usuario:clave@proxy.dgeyc:3128"
+git config --global user.email "nuestro email"
+git config --global user.name "nuestro nombre"
+
+Nombre y email son los que van a aparecer como autor de los commit en los repositorios.
