@@ -1,0 +1,19 @@
+#/bin/bash
+touch tema1.mp3
+touch tema2.mp3
+touch tema3.mp3
+touch tema4.mp3
+touch tema5.mp3
+touch tema6.mp3	
+touch video1.avi
+touch video2.avi
+touch video3.avi
+touch video4.avi
+touch video5.avi
+touch video6.avi
+touch foto1.jpg
+touch foto2.jpg
+touch foto3.jpg
+touch foto4.jpg
+touch foto5.jpg
+touch foto6.jpg

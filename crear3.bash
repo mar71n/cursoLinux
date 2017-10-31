@@ -1,0 +1,16 @@
+#/bin/bash
+touch temporadaserie1_capitulo1.mp4
+touch temporadaserie1_capitulo2.mp4
+touch temporadaserie1_capitulo3.mp4
+touch temporadaserie1_capitulo4.mp4
+touch temporadaserie1_capitulo5.mp4
+touch temporadaserie2_capitulo1.mp4
+touch temporadaserie2_capitulo2.mp4
+touch temporadaserie2_capitulo3.mp4
+touch temporadaserie2_capitulo4.mp4
+touch temporadaserie2_capitulo5.mp4
+touch milibro_capitulo1.doc
+touch milibro_capitulo2.doc
+touch milibro_capitulo3.doc
+touch milibro_capitulo4.doc
+touch milibro_capitulo5.doc
